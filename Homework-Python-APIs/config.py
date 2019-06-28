@@ -1,0 +1,7 @@
+api_key = "0e0bfc2b5d4b0209aeb33daf48edf7fb"
+
+api_gkey = "AIzaSyD8VJ3LJIj1hJNQqb8j91OTETAEXk0wGGo"
+
+api_ckey = "85ac64b6b5a9c0901b00329d1ef41f0c53ccfc98"
+#yelp api key
+api_ykey = "i6G_jwCdlCkUC-fQy873DJjBjuRTP9uJFiy1k0Z3sJdY8R5_i49iaMxuoZ8Bpdya8zbps4Ht6X28S3jGlDr0Uq8Puo5Z3CYbmSoHkbyjfzwojyw7QCv3gFgsoKoSXXYx"
